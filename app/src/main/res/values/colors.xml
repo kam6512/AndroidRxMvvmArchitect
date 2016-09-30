@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff8c00</color>
+
+    <color name="text_enable">#000000</color>
+    <color name="text_disable">#C0C0C0</color>
+
+    <color name="text_dark">#000000</color>
+    <color name="text_gray">#595959</color>
+    <color name="text_light">#ffffff</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="tint_dark">#000000</color>
+    <color name="tint_gray">#595959</color>
+    <color name="tint_light">#ffffff</color>
+
+
+
+    <color name="device_type_ble">#4169e1</color>
+    <color name="device_type_classic">#1A237E</color>
+    <color name="device_type_unknown">#595959</color>
+
+</resources>

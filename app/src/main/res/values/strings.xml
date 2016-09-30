@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidRxMvvmArchitect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="dialog_location_title">input location</string>
+    <string name="dialog_location_content">ex) Korea</string>
+    <string name="dialog_location_hint">ex) Korea</string>
+    <string name="dialog_location_pre_fill">Korea</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_menu_top_follow_user">TopFollowUser</string>
+    <string name="drawer_menu_top_follow_user_language">TFU/Lang</string>
+    <string name="drawer_menu_top_follow_user_location">TFU/Loc</string>
+    <string name="drawer_menu_top_follow_user_language_location">TFU/Lang&amp;Loc</string>
+    <string name="drawer_menu_top_star_repo">TopStarRepo</string>
+    <string name="drawer_menu_top_star_repo_language">TSR/Lang</string>
+</resources>

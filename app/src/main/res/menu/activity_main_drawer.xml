@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/drawer_menu_top_follow_user">
+        <menu>
+            <item
+                android:id="@+id/nav_top_follow_user"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_follow_user"/>
+            <item
+                android:id="@+id/nav_top_follow_user_language"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_follow_user_language"/>
+            <item
+                android:id="@+id/nav_top_follow_user_location"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_follow_user_location"/>
+            <item
+                android:id="@+id/nav_top_follow_user_language_location"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_follow_user_language_location"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/drawer_menu_top_star_repo">
+        <menu>
+            <item
+                android:id="@+id/nav_top_star_repo"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_star_repo"/>
+            <item
+                android:id="@+id/nav_top_star_repo_language"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/drawer_menu_top_star_repo_language"/>
+        </menu>
+    </item>
+
+</menu>
